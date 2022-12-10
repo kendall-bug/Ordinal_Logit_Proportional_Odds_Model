@@ -7,4 +7,4 @@ An ordered logistic regression model is used when the outcome variable is catego
 The IBM HR Analytics Employee Attrition & Performance dataset can be found at https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-datase. The site also includes a data dictionary.
 
 ##### Problem Statement:
-Due to changes in the job market, IBM wants to conduct an analysis to help them better retain their existing employees. The Human Resources team has asked you to identify trends between employees and their work satisfaction level.
+Due to changes in the job market, IBM wants to conduct an analysis to help them better retain their existing employees. The Human Resources team has asked you to identify trends between employees and their job satisfaction level.
